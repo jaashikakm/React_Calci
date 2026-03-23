@@ -1,7 +1,7 @@
 # Ex04 Simple Calculator - React Project
 ## Date:14-03-2026
-## Name : Eshwer M
-## Reg No : 212224040086
+## Name : THILLAI AJAY.L
+## Reg No : 212224040354
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
